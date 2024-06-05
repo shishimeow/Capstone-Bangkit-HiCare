@@ -10,5 +10,5 @@
 7. (MD) A009D4KY3656– Simon Yunior – Universitas Gunadarma - [Active]
 
 ## Path
-[Github ML](https://github.com/Winando29/HiCare-For-Your-Healthy-Daily-Life-Mobile-Application/tree/main)
-[Github MD](https://github.com/ihsan2122/hicare)
+- [Github ML](https://github.com/Winando29/HiCare-For-Your-Healthy-Daily-Life-Mobile-Application/tree/main)
+- [Github MD](https://github.com/ihsan2122/hicare)

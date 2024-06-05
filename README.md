@@ -1,8 +1,8 @@
 # Capstone-Bangkit-HiCare
 
 ## Anggota
-(ML) M226D4KY1553 – Winando Parbo Kusuma – Universitas Jambi - [Active]
-(ML) M012D4KY1832– Muhammad Akmal Falih Rizqullah – Universitas Telkom - [Active]
+1. (ML) M226D4KY1553 – Winando Parbo Kusuma – Universitas Jambi - [Active]
+2. (ML) M012D4KY1832– Muhammad Akmal Falih Rizqullah – Universitas Telkom - [Active]
 (CC) C001D4KX0099– Aulia Azzahra Syafitri – Institut Pertanian Bogor - [Active]
 (CC) C126D4KY0237 – Muhammad Naufal Prasetio – Politeknik Negeri Bandung - [Active]
 (CC)  C346D4KY0562 – Ogi Rahmansyah – Universitas Adhirajasa Reswara Sanjaya - [Active]
